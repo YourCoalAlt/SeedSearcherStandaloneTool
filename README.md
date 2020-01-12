@@ -1,5 +1,5 @@
 # SeedSearcherStandaloneTool
-This toolis built to be standalone but has some depencies if you would like to download and play with the code. Depencencies are in the lib folder. 
+This tool is built to be standalone but has some depencies if you would like to download and play with the code. Depencencies are in the lib folder. 
 
 ![SeedTool Image 1](https://imgur.com/j6Hi6be.png)
 
@@ -26,3 +26,10 @@ YourCoalAlt - Updating to 1.14.3
 Discord: Zodsmar#0877
 
 Email: zodsmar@gmail.com
+
+## Donate
+
+Building this tool takes time. If you love the tool and would like to donate I always appreciate it!
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=W9E3YQAKQWC34&currency_code=CAD&source=url)
+
